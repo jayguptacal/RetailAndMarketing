@@ -13,4 +13,4 @@ I follow the the Data Science Method (DSM) process to do the projects. And based
 - For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb){:target="_blank"}
 - For Price Modeling and Algorithm, click here ![Modeling Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/05_modeling.ipynb){:target="_blank"}
 
-If any notebook does not load and gives error message, please reload it.
+If any notebook does not load and gives error message, please reload it. Since the notebooks are data heavy, sometimes you may have to click on the ***'reload'*** link a few times before it loads properly.
