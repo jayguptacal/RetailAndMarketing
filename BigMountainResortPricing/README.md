@@ -8,9 +8,9 @@ I follow the the Data Science Method (DSM) process to do the projects. And based
 
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
 
-- For Data Wrangling Notebook, click here ![Data Wrangling Notebook](/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb){:target="_blank"}
-- For Exploratory Data Analysis, click here ![EDA Notebook](/BigMountainResortPricing/Notebooks/03_exploratory_data_analysis.ipynb){:target="_blank"}
-- For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb){:target="_blank"}
-- For Price Modeling and Algorithm, click here ![Modeling Notebook](/BigMountainResortPricing/Notebooks/05_modeling.ipynb){:target="_blank"}
+- For Data Wrangling Notebook, click here ![Data Wrangling Notebook](/Notebooks/02_data_wrangling.ipynb){:target="_blank"}
+- For Exploratory Data Analysis, click here ![EDA Notebook](/Notebooks/03_exploratory_data_analysis.ipynb){:target="_blank"}
+- For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](/Notebooks/04_preprocessing_and_training.ipynb){:target="_blank"}
+- For Price Modeling and Algorithm, click here ![Modeling Notebook](/Notebooks/05_modeling.ipynb){:target="_blank"}
 
 If any notebook does not load and gives error message, please reload it.
