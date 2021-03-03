@@ -1,29 +1,16 @@
-# DataScienceGuidedCapstone
+# Details about the Big Mountain Resort Pricing Springboard Project
 
-Hello students!
-Welcome to the Data Science Guided Capstone! 
+## Goals of this Project
+The purpose of this data science project is to come up with a pricing model for ski resort tickets in our market segment. Big Mountain suspects it may not be maximizing its returns, relative to its position in the market. It also does not have a strong sense of what facilities matter most to visitors, particularly which ones they're most likely to pay more for. This project aims to build a predictive model for ticket price based on a number of facilities, or properties, boasted by resorts (at the resorts). This model will be used to provide guidance for Big Mountain's pricing and future facility investment plans.
 
-Start by forking this repository to your personal GitHub account and cloning the fork to your local machine. 
+## Jupyter Notebooks for various phases
+I follow the the Data Science Method (DSM) process to do the projects. And based on the project, I decide what phases will be applicable for the project. Each phase is clearly shown in the below image:
 
-You will find the notebooks in the Notebooks/ directory. 
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
 
-You will find instructions on how to complete and submit each step of the Guided Capstone in the course materials. Each subunit will focus on one step of the Capstone, corresponding to a step of the Data Science Method. Find the Jupyter Notebook corresponding to the subunit you are working on, and open it. Follow along as you are guided through the work, and fill in the blanks!
+- For Data Wrangling Notebook, click here ![Data Wrangling Notebook](/main/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb){:target="_blank"}
+- For Exploratory Data Analysis, click here ![EDA Notebook](/main/BigMountainResortPricing/Notebooks/03_exploratory_data_analysis.ipynb){:target="_blank"}
+- For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](/main/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb){:target="_blank"}
+- For Price Modeling and Algorithm, click here ![Modeling Notebook](/main/BigMountainResortPricing/Notebooks/05_modeling.ipynb){:target="_blank"}
 
-When you are done with the notebook, push the changes to your personal GitHub account.
-
-## Pipenv
-
-The `Pipefile` has all the python dependencies and requirements you should need. So you can use [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/) is you want to create a seperate python enviornment for this project. 
-
-To install pipenv see [here](https://pipenv-fork.readthedocs.io/en/latest/#install-pipenv-today).
-
-To create the env and install the required libraries (once you have pipenv installed) you can just do:
-```
-pipenv install
-```
-
-Then to activate the env and launch jupyter from this env you can do something like the below two commands:
-```
-pipenv shell
-jupyter lab
-```
+If any notebook does not load and gives error message, please reload it.
