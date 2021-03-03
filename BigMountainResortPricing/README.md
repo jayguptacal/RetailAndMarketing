@@ -8,9 +8,9 @@ I follow the the Data Science Method (DSM) process to do the projects. And based
 
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
 
-- For Data Wrangling Notebook, click here ![Data Wrangling Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb){:target="_blank"}
-- For Exploratory Data Analysis, click here ![EDA Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/03_exploratory_data_analysis.ipynb){:target="_blank"}
-- For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb){:target="_blank"}
-- For Price Modeling and Algorithm, click here ![Modeling Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/05_modeling.ipynb){:target="_blank"}
+- For Data Wrangling Notebook, click here ![Data Wrangling Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb)
+- For Exploratory Data Analysis, click here ![EDA Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/03_exploratory_data_analysis.ipynb)
+- For Preprocessing and training data, click here ![Preprocessing & Training Data Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb)
+- For Price Modeling and Algorithm, click here ![Modeling Notebook](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/05_modeling.ipynb)
 
 If any notebook does not load and gives error message, please reload it. Since the notebooks are data heavy, sometimes you may have to click on the ***'reload'*** link a few times before it loads properly.
