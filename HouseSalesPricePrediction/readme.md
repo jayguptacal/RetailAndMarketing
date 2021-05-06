@@ -16,6 +16,8 @@ Keeping this in mind, the primary focus of this project is to predict the house 
 <p align="center">
 <img src="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/images/housesbanner.png">
 </p>
+![Credit Image Source: Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+
 
 ## Check-Out Jupyter Notebooks For Different Steps of Machine Learning Modeling ##
 
