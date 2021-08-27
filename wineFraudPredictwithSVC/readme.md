@@ -32,8 +32,6 @@ While clicking on the below links for the detailed working of this project, plea
 
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/bannerOpenNotebooks.jpg">
 
-* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/1_Problem_Identification_House_Prices.ipynb" target="_blank"><b>Problem Identification Notebook</b></a>
-
 * <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/wineFraudPredictwithSVC/svc_wine_fraud.ipynb" target="_blank"><b>Jupyter Notebook on Wine Prediction Machine Learning Modeling</b></a>
 
 ==>> While clicking on the above links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
