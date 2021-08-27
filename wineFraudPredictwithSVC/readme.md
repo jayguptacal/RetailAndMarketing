@@ -1,7 +1,7 @@
 # Problem Identification: Using Support Vector Machine Classification Algorithm, Predict if a Wine is Fraud or Legit based on Chemical Composition
 
 <p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/housePredAppWelcome.jpg">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/SVMClassificationWineCheck_welcome.jpg">
 </p>
 
 ## Introduction ##
