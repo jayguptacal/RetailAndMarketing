@@ -1,7 +1,7 @@
 # Development of Orders, Revenue & Profit Dashboards using Microsoft Power BI for a Global Company
 
 <p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/Spotfire_welcome.jpg">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/PowerBIDashboard_welcome.jpg">
 </p>
 
 ## Introduction
