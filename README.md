@@ -14,6 +14,10 @@
 
 <span style="font-size=30; color:blue"> **Fourth Project:** </span>
 
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/powerbianalytics/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/PowerBIDashboard_Access.jpg)</a>
+
+<span style="font-size=30; color:blue"> **Fifth Project:** </span>
+
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/spotfireanalytics/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/Spotfire_Access.jpg)</a>
 
 
