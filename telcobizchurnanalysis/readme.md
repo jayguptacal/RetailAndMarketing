@@ -37,9 +37,9 @@ While clicking on the below links for the detailed working of this project, plea
 
 * <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/telco_customer_churn_ml_Part1.ipynb" target="_blank"><b>First Jupyter Notebook on Customer Churn Analysis, Part-1 of 3</b></a>
 
-* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/telco_customer_churn_ml_Part2.ipynb" target="_blank"><b>First Jupyter Notebook on Customer Churn Analysis, Part-2 of 3</b></a>
+* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/telco_customer_churn_ml_Part2.ipynb" target="_blank"><b>Second Jupyter Notebook on Customer Churn Analysis, Part-2 of 3</b></a>
 
-* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/telco_customer_churn_ml_Part3.ipynb" target="_blank"><b>First Jupyter Notebook on Customer Churn Analysis, Part-3 of 3</b></a>
+* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/telco_customer_churn_ml_Part3.ipynb" target="_blank"><b>Third Jupyter Notebook on Customer Churn Analysis, Part-3 of 3</b></a>
 
 ==>> While clicking on the above links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
