@@ -1,7 +1,7 @@
 # Problem Identification: Predict Customer Churn for a Telco Business based on Customer Segmentation (Churn & Cohort Analysis) using different Machine Learning algorithms
 
-<p align="center">
-BANNER HERE
+<<p align="center">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/telecom_customer_churn_welcome.jpg">
 </p>
 
 ## Introduction ##
